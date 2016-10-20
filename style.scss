@@ -1,0 +1,65 @@
+/***** COLORS *****/
+$red: #d20014;
+$white: #fff;
+
+/***** DIMENSIONS *****/
+$size: 512px;
+$btn-size: $size / 6;
+$section-width: $size * 15 / 32;
+$section-height: $size;
+$border-width: $size / 12;
+$border-radius: $size * 2 / 9;
+
+body {
+  background-color: $red;
+}
+
+#nintendo-switch {
+  width: $size;
+  height: $size;
+}
+
+#switch-left {
+  width: $section-width;
+  height: $section-height;
+  display: inline-block;
+  border-style: solid;
+  border-width: $border-width;
+  border-top-left-radius: $border-radius;
+  border-bottom-left-radius: $border-radius;
+  border-color: $white;
+  box-sizing: border-box;
+  float: left;
+}
+
+#switch-btn-left {
+  background-color: $white;
+  width: $btn-size;
+  height: $btn-size;
+  border-radius: 100%;
+  margin-left: ($section-width / 3) - $border-width;
+  margin-top: ($section-height / 5) - $border-width;
+}
+
+#switch-right {
+  background-color: $white;
+  width: $section-width;
+  height: $section-height;
+  display: inline-block;
+  border-style: solid;
+  border-width: $border-width;
+  border-top-right-radius: $border-radius;
+  border-bottom-right-radius: $border-radius;
+  border-color: $white;
+  box-sizing: border-box;
+  float: right;
+}
+
+#switch-btn-right {
+  background-color: $red;
+  width: $btn-size;
+  height: $btn-size;
+  border-radius: 100%;
+  margin-left: ($section-width / 3) - $border-width;
+  margin-top: ($section-height / 8 * 3) - $border-width;
+}
