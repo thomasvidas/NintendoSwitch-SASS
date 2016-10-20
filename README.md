@@ -1,4 +1,6 @@
-#Nintendo Switch - SASS
+# Nintendo Switch - SASS
+
+[Look at this!](http://thomasvidas.github.com/NintendoSwitch-SASS)
 
 The Nintendo Switch was just shown today for the first time!  If you have a Nintendo
 themed website or blog that you would like to add this to your website, please give

@@ -1,0 +1,51 @@
+/***** COLORS *****/
+/***** DIMENSIONS *****/
+body {
+  background-color: #d20014; }
+
+#nintendo-switch {
+  width: 512px;
+  height: 512px; }
+
+#switch-left {
+  width: 240px;
+  height: 512px;
+  display: inline-block;
+  border-style: solid;
+  border-width: 42.66667px;
+  border-top-left-radius: 113.77778px;
+  border-bottom-left-radius: 113.77778px;
+  border-color: #fff;
+  box-sizing: border-box;
+  float: left; }
+
+#switch-btn-left {
+  background-color: #fff;
+  width: 85.33333px;
+  height: 85.33333px;
+  border-radius: 100%;
+  margin-left: 37.33333px;
+  margin-top: 59.73333px; }
+
+#switch-right {
+  background-color: #fff;
+  width: 240px;
+  height: 512px;
+  display: inline-block;
+  border-style: solid;
+  border-width: 42.66667px;
+  border-top-right-radius: 113.77778px;
+  border-bottom-right-radius: 113.77778px;
+  border-color: #fff;
+  box-sizing: border-box;
+  float: right; }
+
+#switch-btn-right {
+  background-color: #d20014;
+  width: 85.33333px;
+  height: 85.33333px;
+  border-radius: 100%;
+  margin-left: 37.33333px;
+  margin-top: 149.33333px; }
+
+/*# sourceMappingURL=switch.css.map */
