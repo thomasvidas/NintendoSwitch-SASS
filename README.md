@@ -2,15 +2,6 @@
 
 [Look at this!](http://thomasvidas.github.com/NintendoSwitch-SASS)
 
-The Nintendo Switch was just shown today for the first time!  If you have a Nintendo
-themed website or blog that you would like to add this to your website, please give
-credit to me (Thomas Vidas) and link back to my Github profile somewhere on your website.
-Even if its just a tiny piece on your website on an about.html or thanks.html, I'd appreciate
-it.
-
-Other than that, fire away!  The code is licensed under Creative Commons by Attribution 4.0.
-The license text is included in this repo.
-
 ### Usage
 
 To use this file you must have [SASS installed](http://sass-lang.com/install).
